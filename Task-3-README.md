@@ -56,3 +56,6 @@ task3_seeds_clustering.ipynb # Notebook for Task 3
 seeds_dataset.txt # Dataset for clustering
 README.md # Documentation for Task 3
 requirements.txt # List of dependencies
+
+### Acknowledgements
+The dataset and lab activity are for educational purposes and demonstrate clustering techniques on real-world data.
