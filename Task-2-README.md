@@ -49,3 +49,6 @@ HousePricePrediction/
 RMSLE Score: 0.446
 2. Random Forest Regressor:
 RMSLE Score: 0.187
+
+### Acknowledgements
+The dataset and lab activity are for educational purposes and demonstrate regression techniques on real-world data.
