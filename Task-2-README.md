@@ -49,6 +49,3 @@ HousePricePrediction/
 RMSLE Score: 0.446
 2. Random Forest Regressor:
 RMSLE Score: 0.187
-
-### License:
-This project is licensed under the MIT License. See the LICENSE file for details.
