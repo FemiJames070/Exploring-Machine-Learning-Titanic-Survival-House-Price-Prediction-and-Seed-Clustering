@@ -1,4 +1,5 @@
-# Exploring-Machine-Learning-Titanic-Survival-House-Price-Prediction-and-Seed-Clustering
+# Exploring-Machine-Learning-Titanic-Survival-Classification.
+Dummy Classifier, Decision Tree Classifier, Random Forest Classifier
 
 ## Task 1: Data Preprocessing, Visualization, and Classification Models
 This task involves preprocessing the Titanic dataset, visualizing important features, and training classification models to predict survival. Models used include a Decision Tree Classifier, a Dummy Classifier, and an improved model with a Random Forest Classifier.
