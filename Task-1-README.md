@@ -39,14 +39,12 @@ numpy
 Use Accuracy and F1 Score for evaluation.
 
 ### Results
-1. Decision Tree Classifier:
-Accuracy: 0.777
-2. Dummy Classifier (Baseline)
-Training Set: F1 Score: 0.381, Accuracy: 0.616
-Test Set: F1 Score: 0.383, Accuracy: 0.622
+1. Dummy Classifier (Baseline)
+F1 Score: 0.000, Accuracy: 0.587
+2. Decision Tree Classifier:
+F1 Score: 0.745, Accuracy: 0.793
 3. Improved Random Forest Model
-Accuracy: TBD
-F1 Score: TBD
+F1 Score: 0.755, Accuracy: 0.804
 
 ### File Structure
 Titanic-Data-Classification/
