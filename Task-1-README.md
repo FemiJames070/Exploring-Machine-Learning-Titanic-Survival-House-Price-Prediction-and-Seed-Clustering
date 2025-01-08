@@ -52,5 +52,5 @@ task1_preprocessing_and_models.ipynb  # Notebook for Task 1
 README.md                             # Documentation for Task 1
 requirements.txt                      # List of dependencies
 
-### License
-This project is licensed under the MIT License. See the LICENSE file for details.
+### Acknowledgements
+The dataset and lab activity are for educational purposes and demonstrate classification techniques on real-world data.
